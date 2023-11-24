@@ -35,6 +35,10 @@ header div {
     position: center;
 }
 
+.banner {
+    width: 100%; 
+    height: auto; 
+}
 
 @media(max-widht:800px){
     header{
